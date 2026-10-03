@@ -62,7 +62,3 @@ A backend-powered Job Board Platform built with **Node.js**, **Express.js**, and
 ## Author
 
 **Jed Emelle**
-
----
-
-This project was completed as part of the **CodeAlpha Backend Development Internship**.
